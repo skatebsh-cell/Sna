@@ -17,7 +17,7 @@
     "subtitle": "A mandatory update is available. You cannot continue without updating.",
     "downloadButtonText": "Update Now",
     "downloadUrl": "https://t.me/+YGQTtPYevtZiMTQ9",
-    "showAdminButton": true,
+    "showAdminButton": false,
     "adminButtonText": "Help",
     "adminUrl": "https://t.me/+YGQTtPYevtZiMTQ9"
   },
